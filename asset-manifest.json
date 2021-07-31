@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CARS_API_1/static/css/main.c3c5f614.chunk.css",
-    "main.js": "/CARS_API_1/static/js/main.2b98f801.chunk.js",
-    "main.js.map": "/CARS_API_1/static/js/main.2b98f801.chunk.js.map",
+    "main.js": "/CARS_API_1/static/js/main.e35e1af1.chunk.js",
+    "main.js.map": "/CARS_API_1/static/js/main.e35e1af1.chunk.js.map",
     "runtime-main.js": "/CARS_API_1/static/js/runtime-main.a5b39705.js",
     "runtime-main.js.map": "/CARS_API_1/static/js/runtime-main.a5b39705.js.map",
     "static/js/2.4a1b9d68.chunk.js": "/CARS_API_1/static/js/2.4a1b9d68.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a5b39705.js",
     "static/js/2.4a1b9d68.chunk.js",
     "static/css/main.c3c5f614.chunk.css",
-    "static/js/main.2b98f801.chunk.js"
+    "static/js/main.e35e1af1.chunk.js"
   ]
 }
