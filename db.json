@@ -1,0 +1,42 @@
+[
+    {
+        "id" : 0,
+        "name" : "subaru",
+        "price" : 7000
+    },
+    {
+        "id" : 1,
+        "name" : "audi",
+        "price" : 8000
+    },
+    {
+        "id" : 2,
+        "name" : "bmw",
+        "price" : 9000
+    },
+    {
+        "id" : 3,
+        "name" : "subaru",
+        "price" : 7000
+    },
+    {
+        "id" : 4,
+        "name" : "audi",
+        "price" : 8000
+    },
+    {
+        "id" : 5,
+        "name" : "bmw",
+        "price" : 9000
+    },
+    {
+        "id" : 6,
+        "name" : "audi",
+        "price" : 8000
+    },
+    {
+        "id" : 7,
+        "name" : "bmw",
+        "price" : 9000
+    }
+]
